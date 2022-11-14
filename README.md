@@ -7,3 +7,5 @@
 - 😄 Pronouns: he/him
 - :penguin: I use linux
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=fingadumbledore&layout=compact)
+
