@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on [MatheProjekt22_23](https://github.com/hyperbel/MatheProjekt22_23/)
+- 🔭 I’m currently working on [Lan Party Controller](https://github.com/Fingadumbledore/Party)
 - 🌱 I’m currently learning C++
 - 😄 Pronouns: he/him
 - :penguin: I use linux
