@@ -1,7 +1,10 @@
-### Hi there 👋
+<h3 align="center">
+   hey there 👋
+</h3>
 
+---
 
-
+# About Me:
 - 🔭 I’m currently working on [Lan Party Controller](https://github.com/Fingadumbledore/Party)
 - 🌱 I’m currently learning C++
 - 😄 Pronouns: he/him
